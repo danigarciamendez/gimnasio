@@ -1,0 +1,48 @@
+/* CSS DEL REGISTRO */
+
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+body{
+background-image: url("../images/registro.jpg");
+
+background-repeat: no-repeat;
+
+font-family: 'Numans', sans-serif;
+}
+
+
+.card{
+    background-color: rgba(0,0,0,0.5) !important;
+    padding-top: 2%!important;
+}
+
+.padding{
+    margin-top:10%!important;
+}
+
+.login_btn{
+color: black;
+background-color: #FFC312!important;
+padding : 4%;
+box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+padding : 4%;
+box-shadow: 0 0 0 0.2rem rgba(255, 193, 7, 0.5);
+}
+.btn-secondary{
+    background-color: orange!important;
+}
+.links{
+color: white;
+}
+.color{
+    color: white;
+}
+
+

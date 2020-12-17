@@ -1,0 +1,55 @@
+html,
+body,
+header,
+#intro {
+    height: 100%;
+}
+
+#intro {
+    background: url("../images/imgGuitart.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.top-nav-collapse {
+    background-color: #24355C;
+  }
+  @media (max-width: 768px) {
+    .navbar:not(.top-nav-collapse) {
+      background-color: #24355C;
+    }
+  }
+  @media (min-width: 800px) and (max-width: 850px) {
+    .navbar:not(.top-nav-collapse) {
+      background-color: #24355C;
+    }
+  }
+
+.bienvenido{
+  padding-top: 2%;
+  color: beige;
+  margin-right: 5%;
+}
+
+.enlaceCerrarSesion{
+  padding-top: 1%;
+}
+
+.enlaceMensajes{
+  padding-top: 1%;
+  margin-right: 2%!important;
+}
+
+.separar{
+margin-right: 2%;
+}
+
+.centrado{
+  text-align: center!important;
+}
+
+.derecha{
+  text-align: right!important;
+}

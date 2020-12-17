@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.2",
+        "dompdf/dompdf": "dev-master",
+        "spipu/html2pdf": "*"
+        
+    }
+}
